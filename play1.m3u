@@ -11,9 +11,71 @@ https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="",FOX Sports 1
 https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.us@HD",FOX Sports 2
+http://23.237.104.106:8080/USA_FS2/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel East
 https://fl5.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior East
 https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.de" group-title="Kids",Disney Channel (576p)
 https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us",Fox Business Network (720p)
+https://fl4.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us",Fox News Channel (720p)
+https://fl4.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="FoxSoul.us",Fox Soul
+https://fl4.moveonjoy.com/FOX_SOUL/index.m3u8
+#EXTINF:-1 tvg-id="CBSNewsChicago.us",CBS News Chicago (720p)
+https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsColorado.us",CBS News Colorado (720p)
+https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsDetroit.us",CBS News Detroit (720p)
+https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsLosAngeles.us",CBS News Los Angeles (720p)
+https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+#EXTINF:-1 tvg-id="WJBKDT1.us",FOX 2 Detroit MI (WJBK) (720p)
+https://livetv-fa.tubi.video/wjbk/index.m3u8
+#EXTINF:-1 tvg-id="KTVUDT1.us",FOX 2 San Francisco CA (KTVU) (720p)
+https://livetv-fa.tubi.video/ktvu/index.m3u8
+#EXTINF:-1 tvg-id="WFTXDT1.us",FOX 4 Cape Coral FL (WFTX) (720p)
+https://livetv-fa.tubi.video/wftx/playlist.m3u8
+#EXTINF:-1 tvg-id="KDFWDT1.us",FOX 4 Dallas / Fort Worth TX (KDFW) (720p)
+https://livetv-fa.tubi.video/kdfw/index.m3u8
+#EXTINF:-1 tvg-id="WAGADT1.us",FOX 5 Atlanta GA (WAGA-TV) (720p)
+https://livetv-fa.tubi.video/waga/index.m3u8
+#EXTINF:-1 tvg-id="WNYWDT1.us",FOX 5 New York NY (WNYW) (720p)
+https://livetv-fa.tubi.video/wnyw/index.m3u8
+#EXTINF:-1 tvg-id="WTTGDT1.us",FOX 5 Washington DC (WTTG) (720p)
+https://livetv-fa.tubi.video/wttg/index.m3u8
+#EXTINF:-1 tvg-id="WITIDT1.us",FOX 6 Milwaukee WI (WITI) (720p)
+https://livetv-fa.tubi.video/witi/index.m3u8
+#EXTINF:-1 tvg-id="KTBCDT1.us",FOX 7 Austin TX (KTBC) (720p)
+https://livetv-fa.tubi.video/ktbc/index.m3u8
+#EXTINF:-1 tvg-id="KMSPDT1.us",FOX 9 ST Paul Minneapolis MN (KMSP) (720p)
+https://livetv-fa.tubi.video/kmsp/index.m3u8
+#EXTINF:-1 tvg-id="KSAZDT1.us",FOX 10 Phoenix AZ (KSAZ) (720p)
+https://livetv-fa.tubi.video/ksaz/index.m3u8
+#EXTINF:-1 tvg-id="KTTVDT1.us",FOX 11 Los Angeles CA (KTTV) (720p)
+https://livetv-fa.tubi.video/kttv/index.m3u8
+#EXTINF:-1 tvg-id="WHBQDT1.us",FOX 13 Memphis TN (WHBQ) (720p) [Geo-blocked]
+https://livetv-fa.tubi.video/whbq3/playlist.m3u8
+#EXTINF:-1 tvg-id="KSTUDT1.us",FOX 13 Salt Lake City UT (KSTU) (720p)
+https://livetv-fa.tubi.video/kstu2/playlist.m3u8
+#EXTINF:-1 tvg-id="KCPQDT1.us",FOX 13 Seattle WA (KCPQ) (720p)
+https://livetv-fa.tubi.video/kcpq/index.m3u8
+#EXTINF:-1 tvg-id="WTVTDT1.us",FOX 13 Tampa Bay FL (WTVT) (720p)
+https://livetv-fa.tubi.video/wtvt/index.m3u8
+#EXTINF:-1 tvg-id="WXMIDT1.us",FOX 17 Grand Rapids MI (WXMI) (720p)
+https://livetv-fa.tubi.video/wxmi/playlist.m3u8
+#EXTINF:-1 tvg-id="KOKIDT1.us",FOX 23 Tulsa OK (KOKI) (720p) [Geo-blocked]
+https://livetv-fa.tubi.video/koki3/playlist.m3u8
+#EXTINF:-1 tvg-id="WFXTDT1.us",FOX 25 Boston MA (WFXT) (720p) [Geo-blocked]
+https://livetv-fa.tubi.video/wfxt/playlist.m3u8
+#EXTINF:-1 tvg-id="KRIVDT1.us",FOX 26 Houston TX (KRIV) (720p)
+https://livetv-fa.tubi.video/kriv/index.m3u8
+#EXTINF:-1 tvg-id="WTXFDT1.us",FOX 29 Philadelphia PA (WTXF-TV) (720p)
+https://livetv-fa.tubi.video/wtxf/index.m3u8
+#EXTINF:-1 tvg-id="WFLDDT1.us",FOX 32 Chicago IL (WFLD) (720p)
+https://livetv-fa.tubi.video/wfld/index.m3u8
+#EXTINF:-1 tvg-id="WOFLDT1.us",FOX 35 Orlando FL (WOFL) (720p)
+https://livetv-fa.tubi.video/wofl/index.m3u8
