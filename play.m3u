@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NickComedyCentralPlus1.de@HD",Nick/Comedy Central +1 HD (1080p)
-https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us",Fox Weather (720p)
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="SpongeBobSchwammkopf.us@Germany" group-title="Kids",SpongeBob Schwammkopf
